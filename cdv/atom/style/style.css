@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+  font-family: segoe UI;
+}
+.header-area{
+  background-color:grey;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: white;
+  text-align: center;
+}
+.contener{
+  width: 60%;
+  margin: auto;
+}
+.header-area img {
+  width: 150px;
+  height: auto;
+}
+.header-area h1{
+  text-transform: uppercase;
+  font-size: 40px;
+}
+.header-area p{
+  font-size: 14px;
+}
+.header-area a{
+  color: white;
+  width: 12px;
+  height: 12px;
+  font-size: 12px;
+  padding: 6px 6px;
+  border: 1px solid white;
+  border-radius: 25%;
+}
